@@ -1,2 +1,2 @@
 # Hybrid-Recommender-Systems-
-Data Science Project on Hybrid Recommender System - done at the Institute for Data, Process and Knowledge Management for course 4 of the major "Data Science".
+Data Science Project on Hybrid Recommender System - done at the Institute of Institute for Data, Process and Knowledge Management for course 4 of the major "Data Science". Please find attached a jupyter notebook, with further comments on the code as well as a .py file. I have also attached the two datasets (both .csv files), that I used in the project, which are originally from a kaggle dataset: https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
